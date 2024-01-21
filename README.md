@@ -40,6 +40,7 @@ Combining GTD and Kanban in Obsidian, this combination leverages the flexibility
 
 ## File tree
 
+```
 Inbox
 ├── Non-Actionable
 │ ├── Ideas and Reflections
@@ -58,6 +59,7 @@ Inbox
 └── Outsource
 Archives
 └── Optional Sorting
+```
 
 ## Templates for Note Management
 
